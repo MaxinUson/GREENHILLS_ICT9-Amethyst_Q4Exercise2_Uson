@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Exercise 2</title>
+</head>
+<body>
+	<h1>Exercise 2</h1>
+	<p id= "id1"></p>
+	<script>
+		var num1 = 10; //number
+		var num2 = 5; //number
+		var num3 = 5; //number
+		var num4 = 3; //number
+		var num5 = 7; //number
+		var num6 = 10; //number
+		var num7 = 3; //number
+		var num8 = 2; //number
+		var num9 = 4; //number
+		var num10 = 6; //number
+
+		document.getElementById ('id1').innerHTML= num1 + num2 + num3 + num4 + num5 + num6 + num7 + num8 + num9 +num10;
+		
+	</script>
+</body>
+</html>
